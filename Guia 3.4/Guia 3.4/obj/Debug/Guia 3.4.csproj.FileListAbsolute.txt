@@ -1,0 +1,10 @@
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\bin\Debug\Guia 3.4.exe.config
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\bin\Debug\Guia 3.4.exe
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\bin\Debug\Guia 3.4.pdb
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia 3.4.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia_3._4.Form1.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia_3._4.Properties.Resources.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia 3.4.csproj.GenerateResource.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia 3.4.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia 3.4.exe
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia Practica\Guia 3.4\obj\Debug\Guia 3.4.pdb
